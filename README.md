@@ -1,5 +1,5 @@
 
-![Logo](https://socialify.git.ci/infsahitya/crowdfunding-dapp/image?description=1&descriptionEditable=Donate%20Money%20%F0%9F%92%B5%20Spread%20Humanity%20%F0%9F%98%87&forks=1&issues=1&language=1&logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F299703%2Fdollar-coin.svg&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
+![Logo](https://socialify.git.ci/ShagunDubey1/crowdfunding-dapp/image?description=1&descriptionEditable=Donate%20Money%20%F0%9F%92%B5%20Spread%20Humanity%20%F0%9F%98%87&forks=1&issues=1&language=1&logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F299703%2Fdollar-coin.svg&name=1&owner=1&pulls=1&stargazers=1&theme=Auto)
 
 
 # Crowdfunding Decentralized App
